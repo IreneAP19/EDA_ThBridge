@@ -56,5 +56,3 @@ Los análisis se realizan utilizando datos de múltiples fuentes, incluyendo:
 ## **Contribuciones**  
 Este EDA está diseñado para fomentar la comprensión de los trastornos alimenticios y la depresión en un contexto global, y para servir como base para estudios más detallados en el futuro.  
 
----  
-¡Gracias por tu interés en este proyecto!
