@@ -1,4 +1,5 @@
 # Análisis Exploratorio de Datos (EDA) sobre Trastornos Alimenticios y Depresión  
+![Texto alternativo](img/portada.jpg)
 
 ## **Descripción del Proyecto**  
 Este proyecto se centra en un análisis exploratorio de datos (EDA) que busca entender cómo afectan los trastornos alimenticios y la depresión a nivel mundial, dividiendo la población por géneros y edades. Además, el estudio incorpora factores económicos y el impacto del uso de redes sociales para explorar correlaciones clave que puedan arrojar luz sobre las dinámicas detrás de estas enfermedades.  
